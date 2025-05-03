@@ -1,2 +1,2 @@
-# project--planning-demo
+# project-planning-demo
 Student walkthrough project on GitHub projects
